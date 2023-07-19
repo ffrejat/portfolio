@@ -143,6 +143,10 @@ body {
         flex-direction: column-reverse;
         padding: 5%;
     }
+
+    .apresentacao__conteudo {
+        width: auto; /*usa o valor automático, neste caso, preenchendo todo o espaço até o padding*/
+    }
 }
 
 
